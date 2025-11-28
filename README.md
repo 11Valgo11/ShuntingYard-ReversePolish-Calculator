@@ -1,2 +1,2 @@
-# ShuntingYard/ReversePolishNotation Calculator
-Calculator, handling of parenthesis, substraction and multiplication priorities using the Shunting Yard Algorithm &amp; Reverse Polish Notation.
+# ShuntingYard -> Reverse Polish Notation Calculator
+Calculator, handling of parenthesis, addition and multiplication priorities using the **Shunting Yard Algorithm** and **Reverse Polish Notation**.
